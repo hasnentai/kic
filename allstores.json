@@ -1,1 +1,106 @@
-
+{
+    "status": 200,
+    "success": true,
+    "message": [
+        {
+            "id": 1,
+            "name": "Cupce443332medrs",
+            "description": "description update",
+            "address": "The Office, Silicon Valley",
+            "store_phone_number": "0123456789",
+            "banner": "https://via.placeholder.com/728x280.png?text=Cupcake",
+            "suspend_business_from": null,
+            "suspend_business_till": null,
+            "lat": null,
+            "lon": null,
+            "createdAt": "2020-08-15T12:37:12.728Z",
+            "updatedAt": "2020-08-30T19:54:25.658Z",
+            "business_hours": [
+                {
+                    "id": "1",
+                    "store_id": 1,
+                    "day": 1,
+                    "open_time": 540,
+                    "close_time": 1480,
+                    "break_start_time": 720,
+                    "break_end_time": 780,
+                    "createdAt": "2020-08-30T19:52:10.774Z",
+                    "updatedAt": "2020-08-30T19:52:10.774Z",
+                    "storeId": 1
+                },
+                {
+                    "id": "2",
+                    "store_id": 1,
+                    "day": 2,
+                    "open_time": 540,
+                    "close_time": 1480,
+                    "break_start_time": 720,
+                    "break_end_time": 780,
+                    "createdAt": "2020-08-30T19:52:10.774Z",
+                    "updatedAt": "2020-08-30T19:52:10.774Z",
+                    "storeId": 1
+                },
+                {
+                    "id": "3",
+                    "store_id": 1,
+                    "day": 3,
+                    "open_time": 540,
+                    "close_time": 1480,
+                    "break_start_time": 720,
+                    "break_end_time": 780,
+                    "createdAt": "2020-08-30T19:52:10.774Z",
+                    "updatedAt": "2020-08-30T19:52:10.774Z",
+                    "storeId": 1
+                },
+                {
+                    "id": "4",
+                    "store_id": 1,
+                    "day": 4,
+                    "open_time": 540,
+                    "close_time": 1480,
+                    "break_start_time": 720,
+                    "break_end_time": 780,
+                    "createdAt": "2020-08-30T19:52:10.774Z",
+                    "updatedAt": "2020-08-30T19:52:10.774Z",
+                    "storeId": 1
+                },
+                {
+                    "id": "5",
+                    "store_id": 1,
+                    "day": 5,
+                    "open_time": 540,
+                    "close_time": 1480,
+                    "break_start_time": 720,
+                    "break_end_time": 780,
+                    "createdAt": "2020-08-30T19:52:10.774Z",
+                    "updatedAt": "2020-08-30T19:52:10.774Z",
+                    "storeId": 1
+                },
+                {
+                    "id": "6",
+                    "store_id": 1,
+                    "day": 6,
+                    "open_time": 540,
+                    "close_time": 1480,
+                    "break_start_time": 720,
+                    "break_end_time": 780,
+                    "createdAt": "2020-08-30T19:52:10.774Z",
+                    "updatedAt": "2020-08-30T19:52:10.774Z",
+                    "storeId": 1
+                },
+                {
+                    "id": "7",
+                    "store_id": 1,
+                    "day": 7,
+                    "open_time": 540,
+                    "close_time": 1480,
+                    "break_start_time": 720,
+                    "break_end_time": 780,
+                    "createdAt": "2020-08-30T19:52:10.774Z",
+                    "updatedAt": "2020-08-30T19:52:10.774Z",
+                    "storeId": 1
+                }
+            ]
+        }
+    ]
+}
